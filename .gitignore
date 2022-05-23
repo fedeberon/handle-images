@@ -14,7 +14,7 @@ target/
 .sts4-cache
 
 ### IntelliJ IDEA ###
-.idea
+.idea/*
 *.iws
 *.iml
 *.ipr
@@ -32,9 +32,3 @@ build/
 ### VS Code ###
 .vscode/
 /bin/
-src/main/resources/application.properties
-
-data/**
-src/main/resources/application.properties
-data/ecomm.trace.db
-data/ecomm.mv.db
